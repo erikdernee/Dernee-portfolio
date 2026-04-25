@@ -1,0 +1,26 @@
+{
+  "name": "dernee-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@sanity/image-url": "^1.1.0",
+    "@sanity/vision": "^3.83.0",
+    "next": "^16.2.4",
+    "next-sanity": "^9.8.15",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "sanity": "^3.83.0",
+    "styled-components": "^6.1.18"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
+  }
+}
